@@ -15,11 +15,6 @@
         }  
         .line {
             margin-bottom: 20px;
-            display: flex;
-        }
-        .radio-group{
-            display: flex;
-            flex-wrap: wrap;
         }
         label {
             margin-bottom: 10px;
